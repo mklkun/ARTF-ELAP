@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1350558881 source:/home/mkl/Bureau/Ubunto Code Blocks 10.05 Projects/MySecondAlgoParallel(ELAP85)/main.cpp
+	<sys/time.h>
+	<omp.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<deque>
+	<map>
+	<boost/multi_array.hpp>
+	<boost/graph/adjacency_matrix.hpp>
+	<boost/graph/adjacency_list.hpp>
+	<boost/graph/copy.hpp>
+	<boost/graph/graphviz.hpp>
+	<boost/graph/adjacency_iterator.hpp>
+	<boost/graph/make_connected.hpp>
+	<boost/graph/make_biconnected_planar.hpp>
+	<boost/graph/boyer_myrvold_planar_test.hpp>
+	<boost/random/mersenne_twister.hpp>
+	<boost/graph/random.hpp>
+	<cassert>
+	<cstddef>
+	<cstdlib>
+	<boost/graph/grid_graph.hpp>
+	<boost/graph/copy.hpp>
+	<boost/graph/boyer_myrvold_planar_test.hpp>
+	<boost/graph/erdos_renyi_generator.hpp>
+	<boost/graph/small_world_generator.hpp>
+	<boost/graph/plod_generator.hpp>
+	<boost/random/linear_congruential.hpp>
+

@@ -247,7 +247,6 @@ namespace myNameSpace
         for(i=debut1; i<=fin1; i++)
             t2.push_back(t[i]);
 
-
         // fusion des deux tableaux
         for(i=debut1; i<=fin2; i++)
         {
